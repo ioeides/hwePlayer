@@ -12,8 +12,8 @@
 - On start and stop, the given `POST` requests will be sent.
 
 ### Dependencies:
-- Python3
-- tkinter
-- pygame
+- Python3.6
+- tkinter (sudo apt-get install python3.6-tk)
+- pygame (sudo -H pip3 install pygame)
 
 hwe is an abbreviation for [herbwürziges Einhorn](https://www.youtube.com/channel/UCuYZRhw5U1r8iTsI5ediu0Q).
